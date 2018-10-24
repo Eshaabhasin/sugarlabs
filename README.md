@@ -1,4 +1,4 @@
 # sugarlabs
-just another respository
+Just another respository
 "Hello sugarlabs.
-i am enjoying this
+I am enjoying this
